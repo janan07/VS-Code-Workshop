@@ -6,14 +6,14 @@ To place an order on our online shop, follow these steps:
 2. Add them to your basket.  
 3. Go to the checkout.  
 4. Select your payment type. We support the following payment types:
-- Bank transfer
-- Credit or debit card  
-**Note:** We do not support American Express.  
-- Bitcoin  
+   - Bank transfer
+   - Credit or debit card  
+   **Note:** We do not support American Express.  
+   - Bitcoin  
 5. Enter the following information:  
-- your name
-- delivery address
-- post code
-- phone number
-- email address  
+   - your name
+   - delivery address
+   - post code
+   - phone number
+   - email address  
 7. Click **send** to complete your order. If you chose to pay by card, the card payment window displays.
